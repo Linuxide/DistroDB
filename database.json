@@ -1,0 +1,43 @@
+{"distributions":[
+  "ubuntu-22.04.2-desktop": [
+    {
+      "name": "Ubuntu",
+      "author": "Canonical",
+      "codename": "Jammy Jellyfish",
+      "version": "22.04.2",
+      "versionType": "LTS",
+      "url": "https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-desktop-amd64.iso"
+    }
+  ]
+  "ubuntu-22.04.2-server": [
+    {
+      "name": "Ubuntu",
+      "author": "Canonical",
+      "codename": "Jammy Jellyfish",
+      "version": "22.04.2",
+      "versionType": "LTS",
+      "url": "https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-live-server-amd64.iso"
+    }
+  ]
+  "ubuntu-22.10-desktop": [
+    {
+      "name": "Ubuntu",
+      "author": "Canonical",
+      "codename": "Kinetic Kudu",
+      "version": "22.10",
+      "versionType": "Interim",
+      "url": "https://releases.ubuntu.com/22.10/ubuntu-22.10-desktop-amd64.iso"
+    }
+  ]
+  "ubuntu-22.10-server": [
+    {
+      "name": "Ubuntu",
+      "author": "Canonical",
+      "codename": "Kinetic Kudu",
+      "version": "22.10",
+      "versionType": "Interim",
+      "url": "https://releases.ubuntu.com/22.10/ubuntu-22.10-live-server-amd64.iso"
+    }
+    ]
+  ]
+}
